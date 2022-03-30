@@ -1,3 +1,5 @@
+#The second python file used for AWS lambda webscraping. This one for cheese characteristics
+
 from bs4 import BeautifulSoup
 import json
 import urllib.request
